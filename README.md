@@ -3,4 +3,4 @@ HTML simple animation using Gif
 
 
 
- <source src="animation.mp4" type="video/mp4">
+<img src="https://github.com/AshanIndrajith/HTML_simple_Animation/blob/main/animation/animation.gif">
